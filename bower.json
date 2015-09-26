@@ -1,0 +1,13 @@
+{
+  "name": "js-ninja.github.io",
+  "version": "0.0.1",
+  "homepage": "https://js-ninja.org",
+  "description": "Home Page for js-ninja.org",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Chetan Kantharia <chetan.kantharia@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true
+}

@@ -1,0 +1,12 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+footer, .footer {
+  padding: 10px;
+  color:#CCCCCC;
+}
+
+.bg-yellow{
+  background: #F0DB4F;
+}
